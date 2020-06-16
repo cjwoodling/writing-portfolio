@@ -2,7 +2,7 @@
 Welcome to my github portfolio!
 Here you will find all of my relevant portfolio work for technical writing subjects.
 
-Links to online tehcnical writing portfolio work:
+Links to online technical writing portfolio work:
 
 [D-Link Comsumer Blog – 5G Networks and what they mean for consumer phones](http://blog.dlink.com/what-is-5g-and-what-does-it-mean-for-your-phone)
 
