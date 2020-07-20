@@ -1,8 +1,8 @@
 # writing-portfolio
 Welcome to my github portfolio!
-Here you will find all of my relevant portfolio work for technical writing subjects.
+Here you will find all of my portfolio work for both B2B and B2C writing and content marketing.
 
-Links to online technical writing portfolio work:
+Links to online work:
 
 [D-Link Comsumer Blog – 5G Networks and what they mean for consumer phones](http://blog.dlink.com/what-is-5g-and-what-does-it-mean-for-your-phone)
 
