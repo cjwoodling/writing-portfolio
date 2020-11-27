@@ -10,4 +10,4 @@ Links to online work:
 
 [D-Link Business Blog – Subnetting, EdTech funding, and lifetime warranties](http://businessblog.us.dlink.com/subnet-edtech-funding-lifetime-warranty)
 
-https://www.anaheimcalling.com/2019/11/19/20969922/advanced-stats-101-an-explanation-of-common-stats-and-the-anaheim-ducks-season-leaders-analytics
+[Anaheim Calling - Advacted Stats 101] (https://www.anaheimcalling.com/2019/11/19/20969922/advanced-stats-101-an-explanation-of-common-stats-and-the-anaheim-ducks-season-leaders-analytics)
