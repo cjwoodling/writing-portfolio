@@ -9,3 +9,5 @@ Links to online work:
 [D-Link Consumer Blog – CarPlay, Google, and upgraded web security](http://blog.dlink.com/google-shows-carplay-alexa-toyota-web-security)
 
 [D-Link Business Blog – Subnetting, EdTech funding, and lifetime warranties](http://businessblog.us.dlink.com/subnet-edtech-funding-lifetime-warranty)
+
+https://www.anaheimcalling.com/2019/11/19/20969922/advanced-stats-101-an-explanation-of-common-stats-and-the-anaheim-ducks-season-leaders-analytics
