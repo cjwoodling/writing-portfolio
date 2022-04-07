@@ -12,4 +12,4 @@ Links to online work:
 
 [Anaheim Calling - Advanced Stats 101](https://www.anaheimcalling.com/2019/11/19/20969922/advanced-stats-101-an-explanation-of-common-stats-and-the-anaheim-ducks-season-leaders-analytics)
 
-[Canopy Growth Interactive Infographic] (https://www.newhope.com/products-and-trends/unlocking-power-cbd-infographic)
+[Canopy Growth Interactive Infographic](https://www.newhope.com/products-and-trends/unlocking-power-cbd-infographic)
