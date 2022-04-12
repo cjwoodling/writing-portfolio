@@ -14,4 +14,4 @@ Links to online work:
 
 [Canopy Growth Interactive Infographic](https://www.newhope.com/products-and-trends/unlocking-power-cbd-infographic)
 
-[Natural Products Expo West Top 10 Trends](hhttps://www.newhope.com/vitamins-and-supplements/inside-bottle-top-10-supplement-trends-seen-expo-west)
+[Natural Products Expo West Top 10 Trends](https://www.newhope.com/vitamins-and-supplements/inside-bottle-top-10-supplement-trends-seen-expo-west)
